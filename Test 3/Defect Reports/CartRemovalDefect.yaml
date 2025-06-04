@@ -1,0 +1,22 @@
+Bug ID: CART_REMOVE_BUG_001
+Bug Title: Unable to Remove Items from Cart on Products Page
+
+Description: When a user adds an item to the cart on the Products page, they can't remove it directly from the page. 
+     However, the item can be removed from the Cart page. Users should also be able to remove items from the Products page.
+
+Credentials:
+  Username: problem_user
+  Password: secret_sauce
+
+Version: 1.0
+Operating System: Windows PC
+Browser: Chrome Version 134.0.6998.35
+Date: March 11, 2025
+Test Case Attachment:
+Feature: Your Cart Page Functionality for problem_user
+Tester: EvaAnton
+Severity: Major
+Priority: Medium
+Status: Open
+Developer: EvaAnton
+Fix Date: Pending

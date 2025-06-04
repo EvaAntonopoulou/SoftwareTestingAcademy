@@ -1,0 +1,23 @@
+Bug ID: CHECKOUT_BUG_002
+Bug Title: Unable to Type Last Name on Checkout - Your Information Page
+
+Description: When a problem_user tries to enter their last name on the Checkout - Your Information page, the input field does not accept any text. 
+  Clicking the "Continue" button results in an error message preventing the user from proceeding. 
+  Users should be able to enter their last name and move to the next step in the checkout process.
+
+Credentials:
+  Username: problem_user
+  Password: secret_sauce
+
+Version: 1.0
+Operating System: Windows 10
+Browser: Chrome Version 134.0.6998.35
+Date: March 12, 2025
+Test Case Attachment:
+Verify Checkout: Your Information navigation for problem_user
+Tester: EvaAnton
+Severity: Critical
+Priority: High
+Status: Open
+Developer: EvaAnton
+Fix Date: Pending

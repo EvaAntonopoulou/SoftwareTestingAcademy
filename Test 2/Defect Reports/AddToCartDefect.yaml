@@ -1,0 +1,22 @@
+Bug ID: CART_FUNCTIONALITY_BUG_004
+Bug Title: Unable to Add Products to Cart
+
+Description:
+  When a problem_user clicks the "Add to Cart" button, the product is not added to the cart. 
+  The cart icon does not update, and the item does not appear in the cart. Users should be able to add items to their cart successfully.
+
+Credentials:
+  Username: problem_user
+  Password: secret_sauce
+
+Version: 1.0
+Operating System: Windows 10
+Browser: Chrome Version 134.0.6998.35
+Date: March 12, 2025
+Test Case Attachment: Feature | Add to Cart Functionality
+Tester: EvaAnton
+Severity: Critical
+Priority: High
+Status: Open
+Developer: EvaAnton
+Fix Date: Pending

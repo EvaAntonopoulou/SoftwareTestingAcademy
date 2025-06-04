@@ -1,0 +1,22 @@
+Bug ID: NAVIGATION_BUG_002
+Bug Title: "About" Page Returns 404 Error in Navigation Menu
+
+Description:
+  When a problem_user clicks on the "About" option in the navigation menu, the page does not load and instead returns a 404 error (Page Not Found). 
+  Users should be able to access the "About" page without errors.
+
+Credentials:
+  Username: problem_user
+  Password: secret_sauce
+
+Version: 1.0
+Operating System: Windows 10
+Browser: Chrome Version 134.0.6998.35
+Date: March 12, 2025
+Test Case Attachment: Feature | Navigation Menu
+Tester: EvaAnton
+Severity: Medium
+Priority: Medium
+Status: Open
+Developer: EvaAnton
+Fix Date: Pending

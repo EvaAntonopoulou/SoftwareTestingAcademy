@@ -1,0 +1,21 @@
+Bug ID: SORTING_BUG_001
+Bug Title: Sorting Feature Not Functioning
+
+Description: When a problem_user attempts to use the sorting dropdown, the selected criteria (e.g., "Price (low to high)" or "Name (A to Z)") does not apply. 
+  The product list remains unchanged. Users should be able to sort products correctly.
+
+Credentials:
+  Username: problem_user
+  Password: secret_sauce
+
+Version: 1.0
+Operating System: Windows 10
+Browser: Chrome Version 134.0.6998.35
+Date: March 12, 2025
+Test Case Attachment: Feature | Sorting Functionality
+Tester: EvaAnton
+Severity: Major
+Priority: High
+Status: Open
+Developer: EvaAnton
+Fix Date: Pending
