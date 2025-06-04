@@ -1,0 +1,21 @@
+Bug ID: CART_FUNCTIONALITY_BUG_001
+Bug Title: Unable to Remove Products from Cart
+
+Description: When the problem_user attempts to remove an item from the cart, the action does not work. 
+  The product remains in the cart, and the cart icon does not update. Users should be able to remove items successfully.
+
+Credentials:
+  Username: problem_user
+  Password: secret_sauce
+
+Version: 1.0
+Operating System: Windows 10
+Browser: Chrome Version 134.0.6998.35
+Date: March 12, 2025
+Test Case Attachment: Feature | Cart Functionality
+Tester: EvaAnton
+Severity: Major
+Priority: High
+Status: Open
+Developer: EvaAnton
+Fix Date: Pending
