@@ -25,7 +25,6 @@ Feature: Login Page Functionality
     Then the user logs in successfully
       And the user should see the (Products) Page
 
-
   Scenario: Login successfully for performance_glitch_user
     When the user types username "problem_user"
       And the user types password "secret_sauce"
